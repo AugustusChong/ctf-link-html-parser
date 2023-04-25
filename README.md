@@ -1,7 +1,7 @@
 # ctf-link-html-parser
 This is an executable to get a hidden link for a CTF challenge from HTML code.
 
-## Tech/framework used
+## Tech/Framework Used
 Built with Python using PyInstaller and BeautifulSoup.
 
 ## Installation
