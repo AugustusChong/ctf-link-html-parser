@@ -1,4 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+get-pip.py -linguist-vendored
+main.spec -linguist-vendored
 venv/* linguist-vendored
 venv/** linguist-vendored=true
